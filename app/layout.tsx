@@ -6,8 +6,8 @@ import NavBar from "./components/NavBar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "WikiRocket",
-  description: "Discover more with WikiRocket",
+  title: "InfoPedia",
+  description: "Discover more with InfoPedia",
 };
 
 export default function RootLayout({
