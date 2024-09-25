@@ -47,6 +47,14 @@ Through **InfoPedia**, I gained the confidence to tackle more complex apps, and 
 
 ---
 
+## 📸 Screenshots
+
+![AI Image Generator App Screenshot](public/screenshots/screenshot1.png)
+![AI Image Generator App Screenshot](public/screenshots/screenshot2.png)
+![AI Image Generator App Screenshot](public/screenshots/screenshot3.png)
+
+---
+
 ## 🏆 Achievements
 
 Working on **InfoPedia** helped me develop a solid understanding of how to structure and build applications with **NextJS**, how to efficiently style with **Tailwind CSS**, and how to benefit from **TypeScript’s** strong typing. The project gave me a great foundation to tackle more challenging projects in the future.
