@@ -17,9 +17,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className= "bg-slate-800">
+      <body className= "bg-custom-bg-layout min-h-screen bg-no-repeat bg-cover">
         <NavBar />
-        {children}
+        <main className="flex justify-center items-center">
+          {children}
+        </main>
         </body>
     </html>
   );
